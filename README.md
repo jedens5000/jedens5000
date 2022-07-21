@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jedens5000.visitor-badge&left_text=You%20Are%20Visitor:)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jedens5000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jedens5000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 
 My Languages:<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
