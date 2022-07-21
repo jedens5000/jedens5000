@@ -2,8 +2,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jedens5000.visitor-badge&left_text=You%20Are%20Visitor:)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jedens5000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### My Languages and Frameworks:<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,17 +25,23 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000&theme=top-langs" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000)
+<span>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000&layout=compact" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jedens5000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+</span>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=github-readme-stats" />
+  
+<!-- THESE ARE REPO CARDS THAT ARE NOT BEING USED
+<a href="https://github.com/jedens5000/Health-Tracker-4GA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=Health-Tracker-4GA" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=convoychat" />
-</a>
 
+<a href="https://github.com/jedens5000/React-Breaking-Bad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=React-Breaking-Bad" />
+</a>
+-->
 
 
 <!--
