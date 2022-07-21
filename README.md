@@ -27,6 +27,19 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000&theme=top-langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=convoychat" />
+</a>
+
+
+
 <!--
 **jedens5000/jedens5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
