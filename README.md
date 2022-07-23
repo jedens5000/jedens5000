@@ -1,7 +1,5 @@
 ## Greetings, human!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jedens5000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### My Languages and Frameworks:<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,6 +43,7 @@
 ### About me:<br/>
 I started my coding journey in 2020 with self study and completed a bootcamp at 4Geeks Academy in July 2022
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jedens5000&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
 
