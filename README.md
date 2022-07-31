@@ -48,7 +48,6 @@ I started my coding journey in 2020 with self study and completed a bootcamp at 
 
 
 <!--
-**jedens5000/jedens5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
