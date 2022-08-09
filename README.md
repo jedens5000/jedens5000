@@ -24,6 +24,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-4A154B?style=for-the-badge&logo=photoshop&logoColor=white)
 
 <span>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000&layout=compact" />
