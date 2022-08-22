@@ -1,5 +1,13 @@
 ## Greetings, human!
 
+
+### Get in touch:<br/>
+<span>
+					<a href="mailto:mrjonedens@gmail.com?subject=Inquiry from jedens500 Github"><img style="height: 3rem" src="https://jonedens.com/images/icons/email_icon_square.png"></a>
+					<a href="https://www.linkedin.com/in/jonedens/" target="_blank"><img style="height: 3rem; margin: 30px;" src="https://jonedens.com/images/icons/linkedin_icon.png" alt="linkedin-icon"></a>
+					<a href="https://jonedens.com" target="_blank"><img style="height: 3rem" src="https://jonedens.com/images/icons/website_icon.png" alt="website-icon"></a>
+				</span>
+
 ### My Languages and Frameworks:<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
