@@ -3,8 +3,8 @@
 
 ### Get in touch:<br/>
 <span>
-					<a href="mailto:mrjonedens@gmail.com?subject=Inquiry from jedens500 Github"><img style="height: 3rem" src="https://jonedens.com/images/icons/email_icon_square.png"></a>
-					<a href="https://www.linkedin.com/in/jonedens/" target="_blank"><img style="height: 3rem; margin: 30px;" src="https://jonedens.com/images/icons/linkedin_icon.png" alt="linkedin-icon"></a>
+					<a href="mailto:mrjonedens@gmail.com?subject=Inquiry from jedens500 Github"><img style="height: 3rem" src="https://jonedens.com/images/icons/email_icon_square.png"></a>&nbsp;
+					<a href="https://www.linkedin.com/in/jonedens/" target="_blank"><img style="height: 3rem; margin: 30px;" src="https://jonedens.com/images/icons/linkedin_icon.png" alt="linkedin-icon"></a>&nbsp;
 					<a href="https://jonedens.com" target="_blank"><img style="height: 3rem" src="https://jonedens.com/images/icons/website_icon.png" alt="website-icon"></a>
 				</span>
 
