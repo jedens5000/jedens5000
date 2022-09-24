@@ -1,4 +1,4 @@
-## Greetings, Human!
+## Greetings!
 
 
 ### Get in touch:<br/>
