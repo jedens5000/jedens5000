@@ -6,7 +6,7 @@
 					<a href="mailto:mrjonedens@gmail.com?subject=Inquiry from jedens500 Github"><img style="height: 3rem" src="https://jonedens.com/images/icons/icons_white/email_icon-wht.png"></a>&nbsp;
 					<a href="https://www.linkedin.com/in/jonedens/" target="_blank"><img style="height: 3rem; margin: 30px;" src="https://jonedens.com/images/icons/icons_white/linkedin_icon-wht.png" alt="linkedin-icon-wht"></a>&nbsp;
 					<a href="https://jonedens.com" target="_blank"><img style="height: 3rem" src="https://jonedens.com/images/icons/icons_white/website_icon-wht.png" alt="website-icon"></a>
-				</span>
+</span>
 
 ### My Languages and Frameworks:<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
