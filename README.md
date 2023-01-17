@@ -3,9 +3,9 @@
 
 ### Get in touch:<br/>
 <span>
-					<a href="mailto:mrjonedens@gmail.com?subject=Inquiry from jedens500 Github"><img style="height: 3rem" src="https://jonedens.com/images/icons/email_icon_square.png"></a>&nbsp;
-					<a href="https://www.linkedin.com/in/jonedens/" target="_blank"><img style="height: 3rem; margin: 30px;" src="https://jonedens.com/images/icons/linkedin_icon.png" alt="linkedin-icon"></a>&nbsp;
-					<a href="https://jonedens.com" target="_blank"><img style="height: 3rem" src="https://jonedens.com/images/icons/website_icon.png" alt="website-icon"></a>
+					<a href="mailto:mrjonedens@gmail.com?subject=Inquiry from jedens500 Github"><img style="height: 3rem" src="https://jonedens.com/images/icons/icons_white/email_icon-wht.png"></a>&nbsp;
+					<a href="https://www.linkedin.com/in/jonedens/" target="_blank"><img style="height: 3rem; margin: 30px;" src="https://jonedens.com/images/icons/icons_white/linkedin_icon-wht.png" alt="linkedin-icon-wht"></a>&nbsp;
+					<a href="https://jonedens.com" target="_blank"><img style="height: 3rem" src="https://jonedens.com/images/icons/icons_white/website_icon-wht.png" alt="website-icon"></a>
 				</span>
 
 ### My Languages and Frameworks:<br/>
