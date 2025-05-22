@@ -42,15 +42,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedens5000&layout=compact" />
 </span>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jedens5000.visitor-badge&left_text=You%20Are%20Visitor:)
+![](https://api.visitorbadge.io/api/VisitorHit?user=jedens5000&repo=github-visitors-badge&label=Vistors&nbsp;Today&countColor=%237B1E7A)
 
-![HitCount](https://hits.dwyl.com/jedens5000.svg?style=flat-square)(http://hits.dwyl.com/jedens5000)
-  
 <!-- THESE ARE REPO CARDS THAT ARE NOT BEING USED
 <a href="https://github.com/jedens5000/Health-Tracker-4GA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=Health-Tracker-4GA" />
 </a>
-
+![Visits](https://img.shields.io/badge/Visits-30284-blue)
 <a href="https://github.com/jedens5000/React-Breaking-Bad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jedens5000&repo=React-Breaking-Bad" />
 </a>
