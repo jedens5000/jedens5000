@@ -44,7 +44,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jedens5000.visitor-badge&left_text=You%20Are%20Visitor:)
 
-
+[![HitCount](https://hits.dwyl.com/jedens5000.svg?style=flat)](http://hits.dwyl.com/jedens5000)
   
 <!-- THESE ARE REPO CARDS THAT ARE NOT BEING USED
 <a href="https://github.com/jedens5000/Health-Tracker-4GA">
